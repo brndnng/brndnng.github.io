@@ -9,7 +9,3 @@ redirect_from:
 ---
 
 We provide development and consulation services on software and blockchain.
-
-A data-driven personal website
-======
-
