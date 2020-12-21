@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Hong Kong, The Hong Kong University of Science and Technology, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2020-: Software Consultant
+  * University of Florida
+  * Architect and create electron desktop application for Constructability Process in the construction field
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2018 - August 2019: Cloud Software Developer
+  * Appcara Inc, Hong Kong
+  * Duties included: Develop and maintain cloud platform software
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in React, Python, Ruby on Rails, HTML5/CSS, JavaScript
+* Familiar with React Native, Spark, TensorFlow, Pandas, scikit-learn, MySQL, MongoDB, Docker, NodeJS, Kubernetes, Ansible
+* Experience in Microsoft Office, AWS/Azure/Google Cloud compute, Linux
+* Strong interpersonal skills, team player and leadership, tenacious, analytical, accountable, inquisitive, self-motivated and fast learner
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* English
+* Cantonese Chinese
+* Mandarin Chinese
+
+Hobbies
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Blockchain
+* Go/Weiqi/Baduk (Amateur 2nd Dan)
+* Bowling
+* Cloud Compute
+* Basketball
+* Darts
+* Billards
+* Piano
+
